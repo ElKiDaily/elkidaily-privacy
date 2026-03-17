@@ -64,6 +64,21 @@ Personenbezogene Daten werden gelöscht oder gesperrt, sobald der Zweck der Spei
 - **Zweck:** Anzeige passender Lebensmittelbilder zu generierten Rezepten
 - **Anbieter:** Unsplash Inc., 500 rue Notre-Dame Ouest, Montreal, QC H2Y 1V2, Kanada
 
+### 2.7 Nutzungsanalyse (Firebase Analytics)
+- **Daten:** Anonymisierte Nutzungsereignisse (z. B. aufgerufene Screens, genutzte Funktionen), Gerätetyp, App-Version — keine personenbezogenen Inhalte
+- **Zweck:** Verbesserung der App-Funktionalität und Nutzererfahrung
+- **Rechtsgrundlage:** Berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO)
+- **Anbieter:** Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland
+- **Hinweis:** Die Daten werden anonymisiert erhoben. Es findet keine Zuordnung zu identifizierbaren Personen statt.
+- **Datenschutz:** https://policies.google.com/privacy
+
+### 2.8 Feedback-Funktion (Cloud Firestore)
+- **Daten:** Feedback-Art, betroffener Bereich, Titel, Beschreibung, optional E-Mail-Adresse, Zeitstempel
+- **Zweck:** Bearbeitung von Nutzeranfragen, Fehlerberichten und Verbesserungsvorschlägen
+- **Rechtsgrundlage:** Berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO)
+- **Hinweis:** Die Angabe der E-Mail-Adresse ist freiwillig und dient ausschließlich der Rückmeldung auf dein Feedback.
+- **Speicherort:** Google-Server (Cloud Firestore)
+
 ---
 
 ## 3. Kinderdaten
