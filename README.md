@@ -1,6 +1,6 @@
 # Datenschutzerklärung – ElKi Daily
 
-**Stand:** März 2026
+**Stand:** März 2026 (aktualisiert)
 **Verantwortlicher:** Alexander Sitek, as@elki-daily.de
 
 ---
@@ -72,7 +72,15 @@ Personenbezogene Daten werden gelöscht oder gesperrt, sobald der Zweck der Spei
 - **Hinweis:** Die Daten werden anonymisiert erhoben. Es findet keine Zuordnung zu identifizierbaren Personen statt.
 - **Datenschutz:** https://policies.google.com/privacy
 
-### 2.8 Feedback-Funktion (Cloud Firestore)
+### 2.8 Absturzberichte (Firebase Crashlytics)
+- **Daten:** Absturzberichte, Fehlermeldungen, Geräteinformationen (Modell, Betriebssystemversion), App-Version, Zeitstempel
+- **Zweck:** Erkennung und Behebung von technischen Fehlern zur Verbesserung der App-Stabilität
+- **Rechtsgrundlage:** Berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO)
+- **Anbieter:** Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland
+- **Hinweis:** Absturzberichte enthalten keine Nutzerinhalte (z. B. Kindernamen, Einkaufslisten). Die Daten werden ausschließlich zur Fehlerdiagnose verwendet.
+- **Datenschutz:** https://policies.google.com/privacy
+
+### 2.9 Feedback-Funktion (Cloud Firestore)
 - **Daten:** Feedback-Art, betroffener Bereich, Titel, Beschreibung, optional E-Mail-Adresse, Zeitstempel
 - **Zweck:** Bearbeitung von Nutzeranfragen, Fehlerberichten und Verbesserungsvorschlägen
 - **Rechtsgrundlage:** Berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO)
